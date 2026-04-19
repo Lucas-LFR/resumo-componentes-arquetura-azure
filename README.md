@@ -13,4 +13,5 @@ REGIÕES
 -As regiões são compostas de um ou mais datacenters muito próximos.
 -Eles fornecem flexibilidade e escala para reduzir a latência do cliente.
 -As regiões preservam aresidência dos dados com uma oferta abrangente de conformidade.
+-Quando uma região toda fica off (DISASTER RECOVERY)
 
