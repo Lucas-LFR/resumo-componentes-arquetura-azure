@@ -1,0 +1,1 @@
+# resumo-componentes-arquetura-azure
