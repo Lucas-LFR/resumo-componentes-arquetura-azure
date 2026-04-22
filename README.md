@@ -28,4 +28,12 @@ REGIÕES SOBERANAS DO AZURE
 -Fisicamente isolada de implantações que não sejam do governo dos EUA.
 Acessível somente a pessoal verificado e autorizado
 
+GRUPOS DE RECURSOS
+-Um grupo de recursos é um contêiner que você usa para gerenciar e agregar recursos em uma única unidade.
+-Os recursos podem existir em apenas um grupo de recursos 
+-Os recursos podem existir em diferentes regiões.
+-Os recursos podem ser movidos para diferentes grupos de recursos.
+-Os aplicativos podem utilizar vários grupos de recursos.
+
+
 
